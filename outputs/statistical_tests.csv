@@ -1,0 +1,4 @@
+test,statistic,p_value,significant
+ANOVA (PnL ~ Sentiment),7.808210353756675,2.749820611548348e-06,True
+Pearson r (FG vs daily PnL),0.0016807166711085553,0.9726373987446753,False
+Spearman rho (FG vs daily PnL),0.00247622218403712,0.9596955337504133,False

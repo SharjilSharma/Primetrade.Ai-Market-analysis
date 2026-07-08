@@ -1,0 +1,10 @@
+PrimeTrade.ai Analysis -- Key Insights
+==================================================
+1. BEST sentiment for avg PnL      : Extreme Greed (avg $129.55)
+2. WORST sentiment for avg PnL     : Extreme Fear (avg $69.85)
+3. BEST win rate sentiment         : Extreme Greed (88.8%)
+4. ANOVA significance              : F=7.808, p=0.0000 (SIG)
+5. Pearson r (FG value vs PnL)     : 0.0017 (not sig)
+6. Profitable traders              : 29 / 32
+7. Best strategy (contrarian)      : Contrarian Buy (Buy in Fear)
+8. Fear-dominated market days      : 1289 / 2644 (48.8%)
